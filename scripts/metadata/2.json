@@ -1,0 +1,21 @@
+{
+  "name": "Marginal Jade Albatross",
+  "description": "The Marginal Jade Albatross is a rare and exotic bird, soaring above the margins and making a statement wherever it goes.",
+  "image": "ipfs://QmPpHqHfVyEyrLBBC6b6gc6P5XYyE81Dx29nXh36GNCmZR",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}

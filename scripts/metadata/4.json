@@ -1,0 +1,21 @@
+{
+  "name": "Running Orange Firefly",
+  "description": "The Running Orange Firefly is a fast and energetic bug, lighting up the night with its bright orange glow.",
+  "image": "ipfs://QmZNg87jtYoW9qoSkekXxaozxxKjfNsBCJopcVWyhzmqVf",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}

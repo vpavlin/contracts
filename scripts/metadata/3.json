@@ -1,0 +1,21 @@
+{
+  "name": "Coherent Black Primate",
+  "description": "The Coherent Black Primate is a wise and thoughtful creature, always thinking deeply and making sense of the world around it.",
+  "image": "ipfs://QmXBphDxzT3c1vyhs7rH81BY3JxaQpYyWKd5aSReUo17qc",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}

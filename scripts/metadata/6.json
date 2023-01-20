@@ -1,0 +1,21 @@
+{
+  "name": "Provincial Gray Mammal",
+  "description": "The Provincial Gray Mammal is a simple and unassuming creature, content to live its quiet life in the countryside.",
+  "image": "ipfs://QmdujxW2D6AXiAGntxqjHR87Xd2hYF9PTp7UM1oHfVZ8eq",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}

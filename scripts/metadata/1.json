@@ -1,0 +1,21 @@
+{
+  "name": "Metropolitan Ivory Angelfish",
+  "description": "The Metropolitan Ivory Angelfish is a true city slicker, swimming through the concrete jungle with grace and style.",
+  "image": "ipfs://QmZABsfs6R3NxQfmkCBewCaJyGnScuzXSM32kqBxz3rLTQ",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}

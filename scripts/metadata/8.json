@@ -1,0 +1,21 @@
+{
+  "name": "Superior Yellow Woodpecker",
+  "description": "The Superior Yellow Woodpecker is a master of its craft, drilling and pecking with precision and skill.",
+  "image": "ipfs://QmdabkoZtfQv9ZbdMs9whuFWWXyySCG4VwMk4xJPHrgRM9",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}

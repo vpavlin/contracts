@@ -1,0 +1,21 @@
+{
+  "name": "Burning Purple Gayal",
+  "description": "The Burning Purple Gayal is a fierce and powerful beast, burning with passion and energy.",
+  "image": "ipfs://QmUTLbuSEC7pNjXmc9ksK1tRkTUCh1wKPKdjrPdh9TqDdR",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}

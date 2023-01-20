@@ -1,0 +1,21 @@
+{
+  "name": "Whispering Red Meadowlark",
+  "description": "The Whispering Red Meadowlark is a beautiful and mysterious bird that sings a secret song only heard by the lucky few.",
+  "image": "ipfs://QmZxqWa7QNGLWXGUCNmuZ15Mo4X1MKHTf422Xmq8G5EttK",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}

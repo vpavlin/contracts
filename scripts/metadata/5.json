@@ -1,0 +1,21 @@
+{
+  "name": "Victorious Amethyst Meadowlark",
+  "description": "The Victorious Amethyst Meadowlark is a true champion, singing its victory song with pride and determination.",
+  "image": "ipfs://QmXcrgeyVXQG54N2QExMHsv1k1ZXDWmtA12EACNzHUwLYm",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}

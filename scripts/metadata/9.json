@@ -1,0 +1,21 @@
+{
+  "name": "Scary Plum Haddock",
+  "description": "The Scary Plum Haddock is a fish that will make you think twice before diving in - its dark plum scales and sharp teeth will send shivers down your spine!",
+  "image": "ipfs://QmPLjuNRUJg7JzsPryNVNmYLACaHVE74z6NNiHDS3FVtiB",
+  "attributes": [
+    {
+      "trait_type": "Last Interactor",
+      "value": null
+    },
+    {
+      "trait_type": "Count",
+      "display_type": "number",
+      "value": null
+    },
+    {
+      "trait_type": "Last Interaction",
+      "display_type": "date",
+      "value": null
+    }
+  ]
+}
